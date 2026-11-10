@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southend / Franklin Park",
+        "rank": 1,
+        "source": "NeighborhoodScout neighborhood screenshot supplied by user",
+        "boundary_quality": "Screenshot-traced outline, approximately georeferenced; NOT official geographic boundary",
+        "stroke": "#242e77",
+        "stroke-width": 2,
+        "fill": "#7775ac",
+        "fill-opacity": 0.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90.1453235,
+              38.6128441
+            ],
+            [
+              -90.1486765,
+              38.6105559
+            ],
+            [
+              -90.1480588,
+              38.6092212
+            ],
+            [
+              -90.1471765,
+              38.6025475
+            ],
+            [
+              -90.1458529,
+              38.6000686
+            ],
+            [
+              -90.1438235,
+              38.5982254
+            ],
+            [
+              -90.1439118,
+              38.5973356
+            ],
+            [
+              -90.1394118,
+              38.594539
+            ],
+            [
+              -90.1244118,
+              38.5828441
+            ],
+            [
+              -90.1245,
+              38.5848144
+            ],
+            [
+              -90.1172647,
+              38.5896449
+            ],
+            [
+              -90.1287353,
+              38.5979712
+            ],
+            [
+              -90.1287353,
+              38.5985432
+            ],
+            [
+              -90.1320882,
+              38.6011492
+            ],
+            [
+              -90.1318235,
+              38.6019754
+            ],
+            [
+              -90.1432059,
+              38.6107466
+            ],
+            [
+              -90.1437353,
+              38.6117
+            ],
+            [
+              -90.1453235,
+              38.6128441
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
